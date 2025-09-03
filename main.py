@@ -18,7 +18,7 @@ def send_email(to_email, subject, body):
     from_email = "anaraseg@gmail.com"  # Sender email
     from_name = "Jaslok Hospital"  # Sender display name
     from_addr = f"{from_name} <{from_email}>"
-    password = "hhjj krol zbrb mgqr"  # Your app password (use env var in real projects)
+    password = "gbbm sfks jbje nqxo"  # Your app password (use env var in real projects)
 
     msg = MIMEText(body)
     msg["Subject"] = subject
